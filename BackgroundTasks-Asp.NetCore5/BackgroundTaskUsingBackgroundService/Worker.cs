@@ -31,6 +31,8 @@ namespace BackgroundTaskUsingBackgroundService
             // We want to leave that HttpClient open as long as the service stays open but when the service shuts down, we should properly shut down the HttpClient as well.
             client.Dispose(); // Releases the unmanaged resources and disposes the managed resources.
 
+            _logger.LogInformation("The service has been stopped...");
+
             return base.StopAsync(cancellationToken);
         }
 

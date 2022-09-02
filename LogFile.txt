@@ -1,0 +1,7 @@
+2022-09-02 16:41:03.938 +05:00 [INF] Starting up the service
+2022-09-02 16:41:06.760 +05:00 [INF] The website was up. Status code "OK"
+2022-09-02 16:41:12.161 +05:00 [INF] The website was up. Status code "OK"
+2022-09-02 16:41:17.610 +05:00 [INF] The website was up. Status code "OK"
+2022-09-02 16:41:41.824 +05:00 [INF] Starting up the service
+2022-09-02 16:41:44.045 +05:00 [INF] The website was up. Status code "OK"
+2022-09-02 16:41:49.441 +05:00 [INF] The website was up. Status code "OK"

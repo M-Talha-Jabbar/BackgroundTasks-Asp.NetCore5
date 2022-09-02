@@ -2,7 +2,7 @@
 There are numerous reasons for creating long-running services such as:
 - Processing CPU-intensive data.
 - Queuing work items in the background.
-- Performing time-based operation on a schedule.
+- Looking up to the things after specific amount of time and then performing operations.
 
 In the early days with .NET Framework, Windows developers could create Windows Services for these reasons. Now with .NET, you can use the <b>BackgroundService</b>, which is an implementation of <b>IHostedService</b>, or implement your own.
 
